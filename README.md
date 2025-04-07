@@ -18,6 +18,7 @@ To run this app:
    ```
 2. Install dependencies `bundle install`
 3. Run `ruby app.rb`
+4. Run tests `ruby tests/test_customer.rb`
 
 ## How to use the CRM
 
