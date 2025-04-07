@@ -26,3 +26,4 @@ CRM Lite is a user-friendly command-line interface app designed to help small bu
 - The app must timestamp customers entries with creation date
 - The app must provide a view of all current customers
 - The app must allow the user to perform another action after one completes
+- The app must test customer creation and customer updating
